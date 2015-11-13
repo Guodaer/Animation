@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8E73A8971BF3498A00C694A3 /* dabai.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E73A8961BF3498A00C694A3 /* dabai.png */; };
+		8E73A8991BF3498E00C694A3 /* dayu.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E73A8981BF3498E00C694A3 /* dayu.png */; };
+		8E73A89D1BF34C0000C694A3 /* daxiong.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E73A89C1BF34C0000C694A3 /* daxiong.png */; };
+		8E73A89F1BF34C7C00C694A3 /* 23032.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E73A89E1BF34C7C00C694A3 /* 23032.png */; };
+		B8766D4F1BF3504500F7311D /* snow.png in Resources */ = {isa = PBXBuildFile; fileRef = B8766D4E1BF3504500F7311D /* snow.png */; };
+		B8766D631BF4991C00F7311D /* unlike@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B8766D621BF4991C00F7311D /* unlike@3x.png */; };
 		B8C3C74A1BF0CA5700F55E0A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B8C3C7491BF0CA5700F55E0A /* main.m */; };
 		B8C3C74D1BF0CA5700F55E0A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B8C3C74C1BF0CA5700F55E0A /* AppDelegate.m */; };
 		B8C3C7501BF0CA5700F55E0A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8C3C74F1BF0CA5700F55E0A /* ViewController.m */; };
@@ -15,6 +21,7 @@
 		B8C3C7581BF0CA5700F55E0A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8C3C7561BF0CA5700F55E0A /* LaunchScreen.storyboard */; };
 		B8C3C7631BF0CA5700F55E0A /* AnimationBigYuanTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B8C3C7621BF0CA5700F55E0A /* AnimationBigYuanTests.m */; };
 		B8C3C76E1BF0CA5700F55E0A /* AnimationBigYuanUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B8C3C76D1BF0CA5700F55E0A /* AnimationBigYuanUITests.m */; };
+		B8C3C77C1BF0CA6400F55E0A /* out_circle.png in Resources */ = {isa = PBXBuildFile; fileRef = B8C3C77B1BF0CA6400F55E0A /* out_circle.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +42,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8E73A8961BF3498A00C694A3 /* dabai.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dabai.png; sourceTree = "<group>"; };
+		8E73A8981BF3498E00C694A3 /* dayu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dayu.png; sourceTree = "<group>"; };
+		8E73A89C1BF34C0000C694A3 /* daxiong.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = daxiong.png; sourceTree = "<group>"; };
+		8E73A89E1BF34C7C00C694A3 /* 23032.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 23032.png; sourceTree = "<group>"; };
+		B8766D4E1BF3504500F7311D /* snow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snow.png; sourceTree = "<group>"; };
+		B8766D621BF4991C00F7311D /* unlike@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "unlike@3x.png"; sourceTree = "<group>"; };
 		B8C3C7451BF0CA5700F55E0A /* AnimationBigYuan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimationBigYuan.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8C3C7491BF0CA5700F55E0A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B8C3C74B1BF0CA5700F55E0A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +64,7 @@
 		B8C3C7691BF0CA5700F55E0A /* AnimationBigYuanUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimationBigYuanUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8C3C76D1BF0CA5700F55E0A /* AnimationBigYuanUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnimationBigYuanUITests.m; sourceTree = "<group>"; };
 		B8C3C76F1BF0CA5700F55E0A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B8C3C77B1BF0CA6400F55E0A /* out_circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = out_circle.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +95,7 @@
 		B8C3C73C1BF0CA5700F55E0A = {
 			isa = PBXGroup;
 			children = (
+				B8766D621BF4991C00F7311D /* unlike@3x.png */,
 				B8C3C7471BF0CA5700F55E0A /* AnimationBigYuan */,
 				B8C3C7611BF0CA5700F55E0A /* AnimationBigYuanTests */,
 				B8C3C76C1BF0CA5700F55E0A /* AnimationBigYuanUITests */,
@@ -101,11 +116,17 @@
 		B8C3C7471BF0CA5700F55E0A /* AnimationBigYuan */ = {
 			isa = PBXGroup;
 			children = (
+				B8766D4E1BF3504500F7311D /* snow.png */,
+				8E73A89E1BF34C7C00C694A3 /* 23032.png */,
+				B8C3C77B1BF0CA6400F55E0A /* out_circle.png */,
 				B8C3C74B1BF0CA5700F55E0A /* AppDelegate.h */,
 				B8C3C74C1BF0CA5700F55E0A /* AppDelegate.m */,
 				B8C3C74E1BF0CA5700F55E0A /* ViewController.h */,
 				B8C3C74F1BF0CA5700F55E0A /* ViewController.m */,
 				B8C3C7511BF0CA5700F55E0A /* Main.storyboard */,
+				8E73A8961BF3498A00C694A3 /* dabai.png */,
+				8E73A8981BF3498E00C694A3 /* dayu.png */,
+				8E73A89C1BF34C0000C694A3 /* daxiong.png */,
 				B8C3C7541BF0CA5700F55E0A /* Assets.xcassets */,
 				B8C3C7561BF0CA5700F55E0A /* LaunchScreen.storyboard */,
 				B8C3C7591BF0CA5700F55E0A /* Info.plist */,
@@ -243,9 +264,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8E73A89D1BF34C0000C694A3 /* daxiong.png in Resources */,
+				8E73A8991BF3498E00C694A3 /* dayu.png in Resources */,
+				B8766D4F1BF3504500F7311D /* snow.png in Resources */,
 				B8C3C7581BF0CA5700F55E0A /* LaunchScreen.storyboard in Resources */,
 				B8C3C7551BF0CA5700F55E0A /* Assets.xcassets in Resources */,
+				B8C3C77C1BF0CA6400F55E0A /* out_circle.png in Resources */,
 				B8C3C7531BF0CA5700F55E0A /* Main.storyboard in Resources */,
+				8E73A89F1BF34C7C00C694A3 /* 23032.png in Resources */,
+				8E73A8971BF3498A00C694A3 /* dabai.png in Resources */,
+				B8766D631BF4991C00F7311D /* unlike@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -412,6 +440,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = AnimationBigYuan/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.chaui.cn.AnimationBigYuan;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -423,6 +452,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = AnimationBigYuan/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.chaui.cn.AnimationBigYuan;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -496,6 +526,7 @@
 				B8C3C7741BF0CA5700F55E0A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B8C3C7751BF0CA5700F55E0A /* Build configuration list for PBXNativeTarget "AnimationBigYuanTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +535,7 @@
 				B8C3C7771BF0CA5700F55E0A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B8C3C7781BF0CA5700F55E0A /* Build configuration list for PBXNativeTarget "AnimationBigYuanUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +544,7 @@
 				B8C3C77A1BF0CA5700F55E0A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
